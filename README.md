@@ -1,4 +1,4 @@
-# SIG-Saude
+# Health-GIS
 
 
 This solution is a system dveloped to hel the public health system from Curitiba-Brazil.
